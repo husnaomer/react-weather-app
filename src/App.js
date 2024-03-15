@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Kabul" />
         <footer>
           This project was coded by{" "}
           <a href="https://github.com/dashboard">Husna Omer</a> and is{" "}
