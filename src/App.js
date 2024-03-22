@@ -7,12 +7,18 @@ function App() {
         <Weather defaultCity="Kabul" />
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/dashboard">Husna Omer</a> and is{" "}
-          <a href="https://github.com/husnaomer/react-weather-app/tree/master">
+          <a href="https://github.com/dashboard" target="_blank">
+            Husna Omer
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/husnaomer/react-weather-app/tree/master"
+            target="_blank"
+          >
             open source on GitHub
           </a>{" "}
           and
-          <a href="https://merry-zuccutto-5b3e6a.netlify.app/">
+          <a href="https://merry-zuccutto-5b3e6a.netlify.app/" target="_blank">
             hosted on Netlify
           </a>
         </footer>

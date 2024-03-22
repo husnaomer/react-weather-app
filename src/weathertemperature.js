@@ -14,7 +14,7 @@ export default function WeatherTemperture(props) {
     function fahranhiet() {
         return (props.celsius * 9) / 5 + 32;
     }
-    if (unit == "celsius"){
+    if (unit === "celsius"){
       return (
         <div className="weathertemperature">
           <span className="temperature">{Math.round(props.celsius)}</span>
