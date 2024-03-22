@@ -1,0 +1,11 @@
+.weatherforecast {
+  text-align: center;
+  margin-top: 30px;
+  line-height: 2.2;
+}
+.weatherforecast-max{
+    font-weight: bold;
+}
+.weatherforecast-min{
+    opacity: 0.8;
+}
